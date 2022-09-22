@@ -37,7 +37,7 @@ O anti desconect funcionava de forma mapeada, sempre que o jogo percebia ausenci
 
 Foi utilizado o **JAVA** para a base do sistema.
 
-Para fazer a funcionalidade foi utilizado uma estrutura de repetição infinita, com clicks na tala, automatizados por mapeamento manual, por esse motivo qual quer resolução fora da progamada ocazionaria problema na mineração do jogo.
+Para fazer a funcionalidade foi utilizado uma estrutura de repetição infinita, com clicks na tala, automatizados por mapeamento manual, por esse motivo qual quer resolução fora da progamada ocasionaria problema na mineração do jogo.
 
 Nele existem 2 loops infinitos, que correspondem a resolução selecionada, para cada resolução há um mapeamento diferente, mas com a mesma funcionalidade.
 
