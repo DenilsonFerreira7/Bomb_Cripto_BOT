@@ -1,4 +1,5 @@
-# Bomb_Cripto_BOT
+# **Bomb_Cripto_BOT**
+
 BOT que ajudou a farmar criptomoedas automaticamente em JAVA.
 
 Hoje não funciona mais, pois o game não da mais lucro.
@@ -34,7 +35,7 @@ O anti desconect funcionava de forma mapeada, sempre que o jogo percebia ausenci
 
 ## Linguagem de progamação
 
-Foi utilizado o java para a base do sistema.
+Foi utilizado o **JAVA** para a base do sistema.
 
 Para fazer a funcionalidade foi utilizado uma estrutura de repetição infinita, com clicks na tala, automatizados por mapeamento manual, por esse motivo qual quer resolução fora da progamada ocazionaria problema na mineração do jogo.
 
